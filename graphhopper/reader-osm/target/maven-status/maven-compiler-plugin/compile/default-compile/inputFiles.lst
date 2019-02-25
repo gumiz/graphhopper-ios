@@ -1,0 +1,16 @@
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/Sink.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfStreamSplitter.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMXMLHelper.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfBlobResult.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfDecoder.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfBlobDecoder.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMTagParser.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfBlobDecoderListener.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfRawBlob.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfFieldDecoder.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMFileHeader.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMTurnRelation.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/GraphHopperOSM.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMInputFile.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/OSMReader.java
+/Users/gumiz/work/graphhopper-ios/graphhopper/reader-osm/src/main/java/com/graphhopper/reader/osm/pbf/PbfReader.java
