@@ -10,7 +10,7 @@ git submodule update -–init
 ./graphhopper-ios-sample/import-sample.sh 
 git submodule update 
 ```
-
+--------------------------------
 
 graphhopper-ios
 ===============
