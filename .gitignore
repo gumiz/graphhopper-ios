@@ -1,10 +1,8 @@
 .DS_Store
 *.xcworkspace
 xcuserdata
-/build/
-/j2objc/
-/src/
 ._j2objc
 *~
 *.swp
-node_modules
+libguava.a
+libjre_emul.a
