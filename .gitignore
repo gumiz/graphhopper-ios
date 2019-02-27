@@ -4,5 +4,6 @@ xcuserdata
 ._j2objc
 *~
 *.swp
-libguava.a
-libjre_emul.a
+/build/
+/j2objc/
+/src/
