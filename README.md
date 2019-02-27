@@ -1,4 +1,5 @@
 This is a pseudo fork of https://github.com/graphhopper/graphhopper but for tag 0.8.2 
+This either way needs to be built to provide necasary folders src and j2obj
  
 Same could be achived by: 
 
@@ -10,7 +11,7 @@ git submodule update -–init
 ./graphhopper-ios-sample/import-sample.sh 
 git submodule update 
 ```
---------------------------------
+
 
 graphhopper-ios
 ===============
