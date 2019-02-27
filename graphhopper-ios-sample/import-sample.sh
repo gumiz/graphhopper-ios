@@ -2,7 +2,7 @@
 
 cd graphhopper
 if [ -z ${FILE+x} ]; then
-  FILE="romania-latest.osm.pbf"
+  FILE="montenegro-latest.osm.pbf"
 fi
 GRAPH_FILE="graph-data.osm.pbf"
 if [ ! -e $FILE ] && [ ! -e $GRAPH_FILE ]; then
